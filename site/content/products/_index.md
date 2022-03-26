@@ -1,35 +1,33 @@
 ---
-title: Our Coffee
+title: modvigil 100
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Modafinil
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  t is recommended for adult patients with sleep disorders and should be taken according to your doctor’s recommendations. To treat sleep apnea and narcolepsy, a pill is swallowed once a day in the morning with a glass of water. To eliminate shift work sleep disorders, a tablet is taken an hour prior to a shift. A tab is consumed whole without splitting and with one glass of water despite food intake.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        How long does the effect last? Modvigil has half-life of almost 12 hours, 8 of them imply the highest productivity.
+
+Modvigil should be administered at a lower dosage by patients with such existing diseases, like:
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        state of mania, depression, psychosis;
+heart problems;
+any mental illnesses;
+high blood pressure;
+kidney or liver dysfunction;
+drug or alcohol addiction;
+hypersensitivity to modafinil or related substances;
+any food allergies.
+Inform your therapist, if you experience any abnormal response of your body to the drug. Keep control over your blood pressure and pulse rate. In case of any changes of your health state, consult a physician with no delay.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+       Side Effects and Precautions
+
+Usually Modvigil is well tolerated by users, but in some cases, consumers may acquire single negative reactions. In healthy people, these symptoms can be simply uncomfortable and don’t lead to serious consequences.
     - image: /img/illustrations-meeting-space.svg
       text: >
         We believe that good coffee has the power to bring people together.
