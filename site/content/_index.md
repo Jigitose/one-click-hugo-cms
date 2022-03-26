@@ -3,7 +3,7 @@ title: "Frequently Asked Questions (FAQ) About Modafinil"
 subtitle: It’s the king of smart drugs. Think of IT professionals, astronauts, military forces, and students to list a few. They all turn to modafinil as their ultimate cognitive enhancer. In this comprehensive FAQ guide, we cover what you should know about this drug
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Modvigil?
+    heading: Why <a href="https://bestpharmrx.com/products/214">buy Modvigil</a>?
     text: "There are many concerns arising from the use of modafinil as an active substance available in many wakefulness and cognitive enhancers. Why do many people run to this drug? Are the benefits worth more than the negative effects?
 
 While this drug is used as a prescription for sleep disorders, it’s not surprising why healthy people get access to modafinil for other beneficial effects. This guide is focused on giving you the answers to the major FAQs you need to know before and when using this drug. If you are interested in this med, then here is your ultimate evidence-based source regarding modafinil."
