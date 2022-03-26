@@ -1,27 +1,34 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
+title: "Can You Snort Modafinil? "
 date: 2016-12-17T15:04:10.000Z
 description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 image: /img/blog-flavor_wheel.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Modafinil is a potent wakefulness agent that also provides nootropic benefits.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+However, it should not be snorted. This is because it was not developed for snorting, it’s not water soluble and there is no powder form available. However, even if a subject finds a so-called powder form of modafinil to purchase, there are shipping concerns, problems with attaining the proper dosage and the product is likely adulterated and potentially unsafe.
 
 ## What the updates mean to you
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+References
+Billiard M, Broughton R. Modafinil: its discovery, the early European and North American experience in the treatment of narcolepsy and idiopathic hypersomnia, and its subsequent use in other medical conditions. Sleep Med. 2018;49:69-72. doi:10.1016/j.sleep.2018.05.027
+Peñaloza RA, Sarkar U, Claman DM, Omachi TA. Trends in on-label and off-label modafinil use in a nationally representative sample. JAMA Intern Med. 2013;173(8):704-706. doi:10.1001/jamainternmed.2013.2807
+Anderson AL, Reid MS, Li SH, et al. Modafinil for the treatment of cocaine dependence. Drug Alcohol Depend. 2009;104(1-2):133-139. doi:10.1016/j.drugalcdep.2009.04.015
+Minzenberg MJ, Carter CS. Modafinil: a review of neurochemical actions and effects on cognition. Neuropsychopharmacology. 2008;33(7):1477-1502.
+Battleday RM, Brem AK. Modafinil for cognitive neuroenhancement in healthy non-sleep-deprived subjects: A systematic review. Eur Neuropsychopharmacol. 2015;25(11):1865-1881. doi:10.1016/j.euroneuro.2015.07.028
+Robertson P Jr, Hellriegel ET. Clinical pharmacokinetic profile of modafinil. Clin Pharmacokinet. 2003;42(2):123-137. doi:10.2165/00003088-200342020-00002
+U.S. National Library of Medicine. Modafinil. MedLine Plus website. Updated February 2, 2016. https://medlineplus.gov/druginfo/meds/a602016.html
+National Center for Biotechnology Information. PubChem Compound Summary for CID 4236, Modafinil. https://pubchem.ncbi.nlm.nih.gov/compound/Modafinil. Accessed Nov. 12, 2021.
+Table of Contents
+What Is Modafinil?
+Modafinil Side Effects and Safety?
+Snort Modafinil?
+Not developed for snorting
+Powder form unavailable
+Dosing concerns
+Water insoluble
+Shipping concerns
+Adulteration
+Can You Snort Modafinil? | Verdict
+References
