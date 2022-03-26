@@ -1,28 +1,41 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Snort Modafinil?'
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
----
+  Drugs that are commonly snorted, like the illicit drug cocaine, are taken this way because it provides almost immediate effects — which, in general, is the singular benefit of this method of administration.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Here are several reasons why we don’t recommend snorting modafinil, even though it means subjects will need to wait longer to feel the effects.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Not developed for snorting
+Modafinil is available in pill or sublingual tablet form (which is dissolved under the tongue), but mostly as a pill you swallow.
+
+For this reason, it contains some fillers necessary to stabilize the drug in pill form. For this reason it shouldn’t be snorted.
+
+Additionally, it would need to be crushed to a very fine powder before snorting — which would also reduce the convenience of such a method of administration.
+
+Powder form unavailable
+A powder form of modafinil used to be available from Sun Pharmaceuticals, but it’s no longer offered. In fact, none of the modafinil manufacturers that we’re aware of produce modafinil powder.
+
+If it were meant to be snorted, a powder form would likely be available. However, this lack of availability for powder should speak volumes — considering the high demand for modafinil as a prescription drug and nootropic.
 
 ## A little history
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Dosing concerns
+It’s also difficult to measure and administer a dose for snorting.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+First, it requires a way to crush the pills into a consistently fine powder. It also requires a milligram scale for precise measurements. Finally, the subject must be able to snort the full dose.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+There is a lot of room for error in these steps, which is why it’s much better to simply take a 100mg or 200mg pill. For smaller doses, a pill splitter can easily and precisely divide pills in two.
 
 ## What you need to know before trying
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Water insoluble
+Modafinil is not soluble in water, meaning it won’t dissolve in water. This may make it extremely painful and uncomfortable to snort [8].
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Shipping concerns
+Powder forms of modafinil, if sourced, may not arrive. While small amounts of pills may discreetly make their way through customs and shipping, powders (particularly bulk purchases) will be under much more intense scrutiny and are more likely to be seized.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Adulteration
+Finally, because no reputable manufacturers that we know of produce powder modafinil, subjects shouldn’t trust modafinil powder available online. It’s likely to be inauthentic or adulterated, and could potentially be unsafe.
 
+All this is to say that no, modafinil should under no circumstances be snorted. For subjects who are concerned about the timing of effect onset, sublingual tablets are a better alternative. Otherwise, the safest and best option is to take modafinil pills as early in the day as possible to account for the waiting period before they take effect. This will provide the benefit of making it easier to go to sleep at night, since it’s more likely the drug will be out of the system by bedtime.
